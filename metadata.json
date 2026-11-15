@@ -1,0 +1,6 @@
+{
+  "name": "حاسبة الفقرات الإنشائية",
+  "description": "تطبيق هندسي لتسعير وتحليل فقرات الأعمال الإنشائية وربط أسعار المواد مباشرة بجدول التحليل وملخص الفقرات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
